@@ -19,7 +19,7 @@ const NoFount = () => {
             Lo que buscas puede haber sido desplazado en la memoria a largo
             plazo.{" "}
           </strong>
-          <Link to="/Home">Volver al Home</Link>
+          <Link to="/">Volver al Home</Link>
         </div>
       </div>
     </div>
