@@ -1,3 +1,5 @@
+
+
 export default function Home() {
   return (
     <div id="carouselExampleIndicators" className="carousel slide">
@@ -38,7 +40,7 @@ export default function Home() {
       <div className="carousel-inner" align="center">
         <div className="carousel-item active">
           <img
-            src="../public/1.JPG"
+            src="1.JPG"
             className="d-block w-100 imgHome "
             alt="Imagen promocional de Tortas-01"
           />
@@ -50,7 +52,7 @@ export default function Home() {
         </div>
         <div className="carousel-item">
           <img
-            src="../public/2.JPG"
+            src="2.JPG"
             className="d-block w-100 imgHome"
             alt="Imagen promocional de Tortas-02"
           />
@@ -61,7 +63,7 @@ export default function Home() {
         </div>
         <div className="carousel-item">
           <img
-            src="../public/3.JPG"
+            src="3.JPG"
             className="d-block w-100 imgHome"
             alt="Imagen promocional de Tortas-03"
           />
@@ -73,7 +75,7 @@ export default function Home() {
         </div>
         <div className="carousel-item">
           <img
-            src="../public/4.JPG"
+            src="4.JPG"
             className="d-block w-100 imgHome"
             alt="Imagen promocional de Tortas-03"
           />
@@ -85,7 +87,7 @@ export default function Home() {
         </div>
         <div className="carousel-item">
           <img
-            src="../public/5.JPG"
+            src="5.JPG"
             className="d-block w-100 imgHome"
             alt="Imagen promocional de Tortas-03"
           />

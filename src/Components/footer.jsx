@@ -16,7 +16,7 @@ export default function SimpleContainer() {
               reservados.
             </strong>
           </p>
-          <Avatar alt="Remy Sharp" src="../public/yo2.JPG" />
+          <Avatar alt="Remy Sharp" src="yo2.JPG" />
         </Stack>
       </Container>
     </React.Fragment>

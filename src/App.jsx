@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 
 import Footer from "./Components/footer";
-import AppBar from "./Components/Navbar";
+import Navbar from "./Components/Navbar";
 
 import Home from "./pages/Home";
 import Tortas from "./pages/Tortas";
@@ -14,7 +14,7 @@ export default function App() {
     <div>
       
       <div className="container pb-5">
-        <AppBar />
+        <Navbar />
 
       </div>
       
